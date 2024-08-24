@@ -1,4 +1,4 @@
-# Web Apllication Development
+# Web Application Development
 This is my personal webpage hosted on GitHub Pages.
 
 
